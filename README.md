@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 👯 I’m looking to collaborate on **JavaScript projects.**
+- 👯 I’m looking to collaborate on **MERN projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramanbajpai7](https://github.com/ramanbajpai7)
 

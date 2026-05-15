@@ -1,35 +1,148 @@
 <h1 align="center">Hi 👋, I'm Raman Bajpai</h1>
-<h3 align="center">I am always up for learning new things.</h3>
+<h3 align="center">Full-Stack Software Engineer | Building Scalable SaaS Products | React, Next.js, NestJS, AI Integrations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanbajpai7&label=Profile%20views&color=0e75b6&style=flat" alt="ramanbajpai7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanbajpai7" alt="ramanbajpai7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **MERN**
-
-- 👯 I’m looking to collaborate on **MERN projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ramanbajpai7](https://github.com/ramanbajpai7)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **ramanbajpai9795@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raman-bajpai-b498a61b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raman-bajpai-b498a61b8" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ramanbajpai7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramanbajpai7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramanbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramanbajpai" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ramanbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ramanbajpai" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ramanbajpai7">
+    <img src="https://komarev.com/ghpvc/?username=ramanbajpai7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanbajpai7&show_icons=true&locale=en&layout=compact" alt="ramanbajpai7" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanbajpai7&show_icons=true&locale=en" alt="ramanbajpai7" /></p>
+- 💼 Software Engineer with **2+ years of product engineering experience**
+- 🏗️ Sole frontend owner of a **production SaaS platform**
+- 🔥 Building scalable full-stack applications using **React, Next.js, NestJS, TypeScript**
+- ⚡ Passionate about **system design, performance optimization, scalable architecture**
+- 🤖 Interested in **AI products, LLM integrations, SaaS engineering**
+- 🧠 Solved **400+ DSA problems** across LeetCode & GFG
+- 🏆 Hackathon Winner | Amazon ML Summer School Selected
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanbajpai7&" alt="ramanbajpai7" /></p>
+---
+
+## 💼 Current Work
+
+### 📄 Docsora — AI-Powered Document Management SaaS
+**Google Drive + Adobe Acrobat alternative**
+
+Built from scratch to production.
+
+✨ Features:
+- Secure document storage
+- AI-powered grammar checking
+- Digital signatures
+- PDF split / merge / watermark / annotations
+- Browser-native document editing
+- Multipart uploads for large files
+- Performance optimization reducing processing time by **80%**
+
+**Tech Stack:**  
+`Next.js 15` `TypeScript` `NestJS` `Zustand` `ShadCN` `Tailwind CSS` `Docker` `AWS S3`
+
+---
+
+## 🚀 Featured Projects
+
+### 🕵️ AnonWork
+Anonymous professional community platform inspired by Blind
+
+**Built with:**
+`Next.js` `TypeScript` `NestJS` `PostgreSQL` `Redis` `RabbitMQ` `Socket.IO` `Docker`
+
+Features:
+- Anonymous company-verified authentication
+- Real-time posts/comments
+- Notification system
+- RBAC
+- Microservices architecture
+
+---
+
+### 🤖 WhatsApp AI Chatbot
+Production-ready chatbot with persistent conversations
+
+**Built with:**
+`NestJS` `MongoDB` `Webhooks` `OpenAI APIs`
+
+Features:
+- Persistent conversation history
+- Automated onboarding flows
+- SaaS integrations
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
+
+### DevOps / Cloud / Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+</p>
+
+**Also worked with:**  
+Apache Kafka • RabbitMQ • Socket.IO • AWS Secrets Manager • REST APIs • Webhooks • JWT • RBAC
+
+---
+
+## 🏆 Achievements
+
+🥈 2nd Place — Hack The November Hackathon  
+🎯 Amazon ML Summer School Selected Candidate  
+🧩 400+ DSA Problems Solved  
+⭐ CodeChef 2-Star
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramanbajpai7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanbajpai7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanbajpai7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/raman-bajpai-b498a61b8" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/ramanbajpai7" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://leetcode.com/ramanbajpai" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" />
+</a>
+</p>
+
+📫 **Email:** ramanbajpai9795@gmail.com  
+🌍 **Portfolio:** https://ramanbajpai.live
+
+---
+
+## 💡 Developer Philosophy
+
+> I enjoy building products from 0 → 1, solving performance bottlenecks, designing scalable systems, and shipping features users actually love.
